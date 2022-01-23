@@ -1,0 +1,3 @@
+Don't forget to back up and save regularly!
+Backing up is as simple as copying the PyChoir/data folder.
+It's best not to open files in the PyChoir/data folder while this program is running.
